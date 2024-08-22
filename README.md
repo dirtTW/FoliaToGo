@@ -1,15 +1,18 @@
-# 🥡🤖 Folia To Go
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/slackadays/foliatogo/folia.yml?style=for-the-badge&logo=githubactions&label=BUILDS&labelColor=rgb(55%2C%2055%2C%2055))
+# 🥡🤖 Folia To Go Dev/1.21.1
+Original by [Slackadays/FoliaToGo](https://github.com/Slackadays/FoliaToGo)
+Folia Dev 1.21.1
+
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/yichifauzi/foliatogo/folia.yml?style=for-the-badge&logo=githubactions&label=BUILDS&labelColor=rgb(55%2C%2055%2C%2055))
  
 This repo has automated, nightly builds of the [Folia](https://github.com/PaperMC/Folia) server for Minecraft so that you don't have to build it yourself. 
 
-Every midnight UTC, GitHub Actions runs [the build script](https://github.com/Slackadays/FoliaToGo/blob/main/build.sh) and uploads the server .jar to the [Actions](https://github.com/Slackadays/FoliaToGo/actions) area.
+Every midnight UTC, GitHub Actions runs [the build script](https://github.com/yichifauzi/FoliaToGo/blob/main/build.sh) and uploads the server .jar to the [Actions](https://github.com/yichifauzi/FoliaToGo/actions) area.
 
 These builds may or may not be up-to-date with the latest Folia commits because they run at a certain time every day.
 
 <h1>
 <p align="center">
-<a href="https://nightly.link/Slackadays/FoliaToGo/workflows/folia/main/FoliaToGo"><code>▶️ Download the latest build</code></a>
+<a href="https://nightly.link/yichifauzi/FoliaToGo/workflows/folia/main/FoliaToGo"><code>▶️ Download the latest build</code></a>
 </p>
 </h1>
 
@@ -19,7 +22,7 @@ This method does not work with the Windows command prompt or PowerShell.
 
 First, clone this repo:
 ```sh
-git clone https://github.com/Slackadays/FoliaToGo
+git clone https://github.com/yichifauzi/FoliaToGo
 ```
 
 Now go to its directory:
