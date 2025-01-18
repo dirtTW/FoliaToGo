@@ -1,6 +1,6 @@
-# 🥡🤖 Folia To Go Dev/1.21.1
+# 🥡🤖 Folia To Go Dev/1.21.4
 Original by [Slackadays/FoliaToGo](https://github.com/Slackadays/FoliaToGo)
-Folia Dev 1.21.1
+Folia Dev 1.21.4
 
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/yichifauzi/foliatogo/folia.yml?style=for-the-badge&logo=githubactions&label=BUILDS&labelColor=rgb(55%2C%2055%2C%2055))
  
